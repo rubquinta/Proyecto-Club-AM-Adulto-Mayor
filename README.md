@@ -7,7 +7,7 @@ EVENTO WEEKEND CODE V.01
 
 REPOSITORIO GITHUB
 
-https://github.com/Gongodes/ProyectoNoobs.git
+https://github.com/rubquinta/Proyecto-Club-AM-Adulto-Mayor
 
 
 EQUIPO NOOBS
